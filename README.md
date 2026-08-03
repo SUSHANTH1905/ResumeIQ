@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 ResumeIQ Advanced – AI Resume Analyzer
 
 A hardened, test-covered version of ResumeIQ: validated inputs, custom
@@ -178,3 +179,6 @@ unexpected exception.
 
 Provided as-is for educational and portfolio purposes. Feel free to
 modify and use it in your own projects.
+=======
+# ResumeIQ
+>>>>>>> 2a2728fcf43fefb9c80d0792ec18835231f4647f
