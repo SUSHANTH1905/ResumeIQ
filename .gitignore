@@ -38,6 +38,9 @@ reports/*
 *.sqlite
 *.sqlite3
 
+# ----- Local SSH keys (never commit!) -----
+.ssh_local/
+
 # ----- Sample resumes (if user wants them private) -----
 # sample_resumes/*
 # !sample_resumes/.gitkeep
