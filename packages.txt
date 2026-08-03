@@ -1,0 +1,16 @@
+# System packages required for Streamlit Community Cloud (Ubuntu/Debian)
+# These are installed via `apt-get` before the Python environment is set up.
+
+# Required by reportlab for PDF rendering (fonts & libpng)
+libfreetype6
+libjpeg-dev
+zlib1g-dev
+libpng-dev
+
+# Required by pdfminer.six / cryptography / cffi for secure PDF parsing
+libffi-dev
+pkg-config
+
+# Font rendering support for Chinese/Japanese/Korean if user adds such text
+fonts-noto-cjk
+fonts-dejavu-core
